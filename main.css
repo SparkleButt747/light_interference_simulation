@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.webgl {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.point {
+    color: white;
+    position: fixed;
+    bottom: 5%;
+    left: 87%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+}
+
+/*# sourceMappingURL=main.css.map*/
