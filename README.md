@@ -28,7 +28,7 @@ The Single Slit Interference Simulation project aims to provide an interactive t
 4. **Preset System**: Allows users to save and load different setups to facilitate teaching and experimentation.
 5. **Detailed Output**: Displays diagrams, graphs, numerical data, and notes about the state of the experiment.
 6. **Compatibility**: Runs on all major browsers but is not supported on mobile devices.
-7. 
+   
 ![Screenshot 2024-07-06 at 7 29 27 PM](https://github.com/SparkleButt747/light_interference_simulation/assets/36875086/5d801586-b1df-4406-9375-ff881945245d)
 ![Screenshot 2024-07-06 at 7 30 18 PM](https://github.com/SparkleButt747/light_interference_simulation/assets/36875086/afcbd8ef-d614-4d9d-b0f9-85416db09b48)
 ![Screenshot 2024-07-06 at 7 30 35 PM](https://github.com/SparkleButt747/light_interference_simulation/assets/36875086/cc05ae48-3593-417d-aac7-3e40a07f50f7)
